@@ -1,7 +1,7 @@
 {
-  "name": "http-proxy",
-  "description": "A full-featured http reverse proxy for node.js",
-  "version": "0.3.1",
+  "name": "http-proxy-no-line-184-error",
+  "description": "A full-featured http reverse proxy for node.js, minus that error.",
+  "version": "0.0.1",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [
     { "name": "Mikeal Rogers", "email": "mikeal.rogers@gmail.com" }, 
@@ -9,7 +9,7 @@
   ],
   "repository": {
       "type": "git",
-      "url": "http://github.com/nodejitsu/node-http-proxy.git" 
+      "url": "http://github.com/joelklabo/node-http-proxy.git" 
   },
   "keywords": ["reverse", "proxy", "http"],
   "dependencies": {
